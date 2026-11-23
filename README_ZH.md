@@ -2,6 +2,8 @@
 
 [English](README_USER.md) | [繁體中文](README_USER_ZH.md)
 
+<img width="500" height="500" alt="appIcon" src="https://github.com/user-attachments/assets/6a6476eb-d3c5-4ed0-ad8c-e6daaec020d1" />
+
 PathFlow 是一款為失明及弱視人士設計的 iPhone 出行輔助 App，將周遭環境語音描述、步行導航和香港巴士資訊整合在一起。
 
 ## PathFlow 可以怎樣協助你
