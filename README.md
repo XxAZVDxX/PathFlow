@@ -1,6 +1,6 @@
 # PathFlow
 
-[English](README_USER.md) | [繁體中文](README_USER_ZH.md)
+[English](README.md) | [繁體中文](README_ZH.md)
 
 PathFlow is an iPhone travel aid for blind and low-vision people. It brings spoken descriptions of nearby surroundings, walking directions, and Hong Kong bus information together in one app.
 
